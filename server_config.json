@@ -1,0 +1,15 @@
+{
+    "Config":[
+        {
+            "version":"2.0",
+            "link":"https://www.test.net/abc.zip",
+            "time":"2022.2.20 15:30:28",
+            "description":"我是一段最新版本的介绍"
+        }
+    ],
+    "Del_nub":2,
+    "Delete":[
+        ".minecraft|mods|123.jar",
+        ".minecraft|configs"
+    ]
+}
