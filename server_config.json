@@ -1,9 +1,9 @@
 {
     "Config":[
         {
-            "version":"1.1",
+            "version":"1.0",
             // 当前游戏更新文件网址，注意文件必须为zip压缩包
-            "link":"https://www.test.net/abc.zip",
+            "link":"",
             "time":"2022.2.20 15:30:28",
             "description":"我是一段最新版本的介绍"
         }
