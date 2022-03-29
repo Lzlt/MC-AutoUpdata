@@ -1,15 +1,16 @@
 {
     "Config":[
         {
-            "version":"2.0",
+            "version":"1.1",
+            //当前游戏更新文件网址，注意文件必须为zip压缩包
             "link":"https://www.test.net/abc.zip",
             "time":"2022.2.20 15:30:28",
             "description":"我是一段最新版本的介绍"
         }
     ],
-    "Del_nub":2,
+    //此处填写要删除的文件或文件夹数量
+    "Del_nub":,
+    //此处填写要删除的文件或文件夹
     "Delete":[
-        ".minecraft|mods|123.jar",
-        ".minecraft|configs"
     ]
 }
